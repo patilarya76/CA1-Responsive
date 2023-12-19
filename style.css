@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://s3.amazonaws.com/ideaworksite/hero-1633605999942.jpg");
+    margin-left: 80px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    justify-content: space-around
+    
+}
+
+
+#maid{
+     padding-top: 20%;
+}
+.container a{
+    position: absolute;
+    height: 20px;
+}
+
+@media only screen and (max-width: 900px){
+    body{
+        background-image: url("https://s3.amazonaws.com/ideaworksite/hero-1633605999942.jpg");
+        margin-left: 80px;
+        font-size: 1.5rem;
+        text-decoration: none;
+        justify-content: space-around
+        
+    }
+    
+    
+    #maid{
+         padding-top: 20%;
+    }
+    .container a{
+        position: absolute;
+        height: 20px;
+    }
+    
+} 
